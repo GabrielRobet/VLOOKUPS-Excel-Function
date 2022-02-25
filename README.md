@@ -10,7 +10,7 @@ It searches for 2 specified values in 2 different columns in order to return a v
 VLOOKUPS returns the value from the row with the first exact match for the 2 lookup values.
 
 ## Example
-The downloadable macro-enabled Excel file includes an example with VLOOKUPS calculated for 4 funds x 3 deals.
+The downloadable macro-enabled Excel file includes an example with VLOOKUPS that returns the equity invested in a specified fund and a specified deal from a table of 4 funds x 3 deals.
 
 Screenshot:
 
